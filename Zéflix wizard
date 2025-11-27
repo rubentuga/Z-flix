@@ -1,1 +1,10 @@
-plugin.program.zeflix-wiz/addon.xml
+plugin.program.zeflix-wiz/
+ ├── addon.xml        ← já tens (enviaste-me)
+ ├── addon.py         ← este é o ficheiro "addon"
+ ├── service.py       ← este é o "service"
+ ├── uservar.py       ← o teu "uservar"
+ ├── LICENSE          ← opcional mas tens
+ ├── icon.png
+ ├── fanart.jpg
+ ├── resources/
+ │     └── (ficheiros dentro da pasta resources)
